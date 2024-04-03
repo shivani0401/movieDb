@@ -3,6 +3,7 @@ nav{
     justify-content: space-between;
     align-items: center;
     background-color: #232324;
+    width: 100%;
 }
 nav ul{
     display: flex;
