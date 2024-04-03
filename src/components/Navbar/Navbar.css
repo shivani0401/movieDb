@@ -4,6 +4,7 @@ nav{
     align-items: center;
     background-color: #232324;
     width: 100%;
+    margin: 1em auto;
 }
 nav ul{
     display: flex;
