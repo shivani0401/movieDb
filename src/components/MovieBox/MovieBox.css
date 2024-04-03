@@ -1,0 +1,26 @@
+img{
+    height: 200px;
+    width: 150px;
+    cursor: pointer;
+}
+img:hover {
+    opacity: .7;
+    box-shadow: 5px;
+}
+h4{
+    color: white;
+}
+p{
+    color:white;
+    font-size: small;
+    margin-top: -10px;
+}
+.movie-box{
+    max-width: 200px;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
